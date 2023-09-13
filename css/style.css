@@ -172,7 +172,7 @@
 
 /*** Hero Header ***/
 .hero-header {
-    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/bg-hero.jpg);
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/camels-crossing-the-dunes.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -440,4 +440,35 @@
     margin-right: 0;
     padding-right: 0;
     border-right: none;
+}
+
+.img-resize {
+    height: 237px;
+    width: 355px;
+}
+
+.footer-resize-img{
+    height: 70px;
+    width: 80px;
+}
+
+.hero-header-new {
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/img00.jfif);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-header-service {
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/img11.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-header-packegs {
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/img1221.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
